@@ -60,5 +60,5 @@ local Button = PlayerTab:CreateButton({
    end,
 })
 
-
+local PlayerTab = Window:CreateTab("Animal", 4483362458) -- Title, Image
 
